@@ -91,7 +91,7 @@ class _MyProfileState extends State<MyProfile> {
             ),
             const Center(
               child: Text(
-                'Nguyễn Thông Tiến',
+                'Trần Tuấn Hùng',
                 style: TextStyle(fontSize: 24, fontWeight: FontWeight.w600),
               ),
             ),

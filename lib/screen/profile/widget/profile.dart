@@ -225,7 +225,7 @@ class _ProfileState extends State<Profile> {
                           onPress: () {},
                           title: 'Email',
                           training: const Text(
-                            'ThongTien6969@gmail.com',
+                            'Hung@gmail.com',
                             style: TextStyle(
                                 fontSize: 13, fontWeight: FontWeight.w500),
                           )),
