@@ -110,7 +110,7 @@ class _VerifyCodeScreenState extends State<VerifyCodeScreen> {
               borderRadius: BorderRadius.all(Radius.circular(12)),
               borderSide: BorderSide(width: 1)),
         ),
-        style: Theme.of(context).textTheme.headline6,
+        style: Theme.of(context).textTheme.titleLarge,
         textAlign: TextAlign.center,
         keyboardType: TextInputType.number,
         inputFormatters: [
